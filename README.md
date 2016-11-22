@@ -10,6 +10,12 @@ This implementation uses Spring Security to manage all the permissions and roles
 
 This project was developed for IADI's (Internet Applications Design and Implementation) course at FCT-UNL, 2015.
 
+**Group Members**
+
+Gonçalo Dias da Silva - https://github.com/gdiasdasilva
+João Francisco Pinto - https://github.com/joaopinto461
+Rui Carvalho - https://github.com/ruiccarvalho
+
 ### Images ###
 
 **Homepage**
