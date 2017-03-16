@@ -30,4 +30,4 @@ Rui Carvalho - https://github.com/ruiccarvalho
 
 **Occupancy map view for an hotel manager**
 
-<img src="http://imgur.com/7XMVfqH.png"/>
+<img src="http://imgur.com/nv28FaP.png"/>
