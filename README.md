@@ -22,12 +22,12 @@ Rui Carvalho - https://github.com/ruiccarvalho
 
 **Homepage**
 
-<img src="https://www.dropbox.com/s/mm6zf1oeh7grezb/iadi1.png"/>
+<img src="http://imgur.com/6xgWzXe.png"/>
 
 **Hotel detail example**
 
-<img src="https://dl.dropboxusercontent.com/u/2937374/GitHub%20Images/ciai/iadi2.png"/>
+<img src="http://imgur.com/7XMVfqH.png"/>
 
 **Occupancy map view for an hotel manager**
 
-<img src="https://dl.dropboxusercontent.com/u/2937374/GitHub%20Images/ciai/iadi3.png"/>
+<img src="http://imgur.com/7XMVfqH.png"/>
