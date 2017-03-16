@@ -22,7 +22,7 @@ Rui Carvalho - https://github.com/ruiccarvalho
 
 **Homepage**
 
-<img src="https://dl.dropboxusercontent.com/u/2937374/GitHub%20Images/ciai/iadi1.png"/>
+<img src="https://www.dropbox.com/s/mm6zf1oeh7grezb/iadi1.png?dl=0"/>
 
 **Hotel detail example**
 
